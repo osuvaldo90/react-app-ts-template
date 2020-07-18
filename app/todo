@@ -1,0 +1,5 @@
+todo
+✔ prettier @done(20-07-18 17:14)
+✔ eslint-plugin-import, setup import/order, setup `@app` imports (import/resolver)q @done(20-07-18 17:14)
+✔ configure eslint-plugin-react, install eslint-plugin-react-hooks, @done(20-07-18 17:14)
+✔ eslint-plugin-jsx-a11y @done(20-07-18 17:19)
